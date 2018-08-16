@@ -65,15 +65,19 @@ All public projects can be viewed at [my GitLab](https://gitlab.com/roshinis).
 [View project on GitLab](https://gitlab.com/roshinis/ece110_honorsproject)
 
 - Automated a small-scale motion activated, efficient lighting system using Arduino.
-- Successfully designed and tested the full Arduino code used to implement the system.
+- Successfully designed, implemented, & tested the complete Arduino code.
 - Significantly reduced the energy consumption of the LED by using Arduino's millis() to control the timing of the light's on cycle.  
-- Used this same method to also precisely detect motion despite an inconsistent motion sensor.
+- Used this same method to precisely detect motion despite an inconsistent motion sensor.
 
 ## Work Experience
 
 ### ECE 110 Course Aide *(Fall 2018)*  
 
 >This description will be updated soon 😅
+
+### Self Employed Highschool Math Tutor *(Fall 2016 - Summer 2018)* 
+- Tutored high school students in Algebra/Algebra 2/Precalculus during the summer (and in Fall/Spring 2016).
+- Prepared them for a course advancement test, but also provided them with a fundamentally conceptual and visual understanding of any formulas and topics included in the course.
 
 ## Honors
 
