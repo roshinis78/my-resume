@@ -14,43 +14,40 @@
 
   ### University of Illinois at Urbana-Champaign
 
-  Computer Engineering  
+  Bachelor of Science in Computer Engineering  
   Expected Graduation: Spring 2021
  
-  Technical GPA<a href="#footnotes" ><sup>1</sup></a> : 4.00 / 4.00  
+  Major GPA<a href="#footnotes" ><sup>1</sup></a> : 4.00 / 4.00  
   Overall GPA<a href="#footnotes"><sup>2</sup></a> : 3.87 / 4.00  
 
 </div>
 
 ## Skills
 
-### 💪 Strong
-
-- C
+### 🌻 Programming
+- C 
+- Java 
+- JavaScript 
+- JSX 
+- React.js 
+- HTML 
+- CSS   
 - C++
-- Java
-- Organizational Leadership  
-  
-### ✅ Proficient  
-
-- Linear Algebra
-- JUnit
-- Javascript 
-- Git
-- HTML
-- CSS
-- JSX
-- React.js
-- Data Structures
-- Algorithms  
-- Markdown 
   
 ### 🔧 Tools
 
 - Visual Studio Code
 - Eclipse
-- GitLab
-- Arduino
+- Git
+- Arduino  
+- JUnit
+ 
+### 🌈 Other Cool Skills  
+- Organizational Leadership 
+- Linear Algebra 
+- Data structures 
+- Basic Algorithms 
+
 
 ## Projects
 
@@ -58,16 +55,17 @@ All public projects can be viewed at [my GitLab](https://gitlab.com/roshinis).
 
 ### My Personal Website *(Summer 2018)*
 
->This description will be updated soon 😅
+-	Currently designing and building a website to showcase my projects and interests.
+- Using React.js to create a one-page, easily-navigable website with moving components.
 
 ### ECE 110 Honors Project: Walk-In Lights *(Spring 2018)*
 
 [View project on GitLab](https://gitlab.com/roshinis/ece110_honorsproject)
 
 - Automated a small-scale motion activated, efficient lighting system using Arduino.
-- Successfully designed, implemented, & tested the complete Arduino code.
-- Significantly reduced the energy consumption of the LED by using Arduino's millis() to control the timing of the light's on cycle.  
-- Used this same method to precisely detect motion despite an inconsistent motion sensor.
+- Successfully designed, implemented, & tested the full Arduino code. 
+-	Significantly reduced energy consumption of the LED by taking advantage of Arduino’s millis().  
+- Used this same method to save 10$ on replacing our inconsistent motion detector.
 
 ## Work Experience
 
@@ -76,8 +74,8 @@ All public projects can be viewed at [my GitLab](https://gitlab.com/roshinis).
 >This description will be updated soon 😅
 
 ### Self Employed Highschool Math Tutor *(Fall 2016 - Summer 2018)* 
-- Tutored high school students in Algebra/Algebra 2/Precalculus during the summer (and in Fall/Spring 2016).
-- Prepared them for a course advancement test, but also provided them with a fundamentally conceptual and visual understanding of any formulas and topics included in the course.
+- Tutored high school students in Algebra/Algebra 2/Precalculus with a 100% course advancement test pass rate. 
+- Provided them with a fundamentally conceptual and visual understanding of any formulas and topics in the course and in applications     of the course. 
 
 ## Honors
 
@@ -85,15 +83,15 @@ All public projects can be viewed at [my GitLab](https://gitlab.com/roshinis).
 
 The Dean's List consists of the Top 20% of the UIUC College of Engineering.
 
-### ECE James Scholar *(Spring 2018-present)*
+### James Scholar *(Spring 2018-present)*
 
-ECE James Scholar is UIUC's honors program in the electrical and computer engineering majors. 
+James Scholar is UIUC's honors program. 
 
 <div id="footnotes">  
 
   ---
   <ol> 
-    <li>My technical GPA is the average grade point average of all the classes I have taken in my major, Electrical and Computer Engineering. <a href="#education">↩️</a></li>
+    <li>My major GPA is the average grade point average of all the classes I have taken in my major, Electrical and Computer Engineering. <a href="#education">↩️</a></li>
     <li>My overall GPA is my grade point average including all the classes I have taken at UIUC. <a href="#education">↩️</a></li>  
   </ol> 
 
