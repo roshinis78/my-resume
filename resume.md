@@ -32,7 +32,8 @@
 - React.js 
 - HTML 
 - CSS   
-- C++
+- C++ 
+- x86 Assembly
   
 ### 🔧 Tools
 
@@ -40,7 +41,8 @@
 - Eclipse
 - Git
 - Arduino  
-- JUnit
+- JUnit 
+- Linux
  
 ### 🌈 Other Cool Skills  
 - Organizational Leadership 
@@ -71,13 +73,18 @@ All public projects can be viewed at [my GitLab](https://gitlab.com/roshinis).
 
 ### ECE 110 Course Aide *(Fall 2018)*  
 
->This description will be updated soon 😅
+- Currently managing an electronics lab of nearly 40 students along with three other course staff. 
+- Promoting discussions amongst students to analyze and overcome technial challenges. 
 
 ### Self Employed Highschool Math Tutor *(Fall 2016 - Summer 2018)* 
 - Tutored high school students in Algebra/Algebra 2/Precalculus with a 100% course advancement test pass rate. 
-- Provided them with a fundamentally conceptual and visual understanding of any formulas and topics in the course and in applications     of the course. 
+- Provided them with a fundamentally conceptual and visual understanding of any formulas and topics in the course and in applications of the course. 
 
-## Honors
+## Honors 
+ 
+### John Deere WECE Scholarship *(Fall 2018)* 
+ 
+This scholarship is given to a WECE member of high academic standing in the Department of Electrical and Computer Engineering. 
 
 ### Dean's List *(Fall 2017, Spring 2018)*
 
