@@ -79,10 +79,10 @@ All public projects can be viewed at [my GitLab](https://gitlab.com/roshinis).
 ### Self Employed Highschool Math Tutor *(Fall 2016 - Summer 2018)* 
 - Tutored high school students in Algebra/Algebra 2/Precalculus with a 100% course advancement test pass rate. 
 - Provided them with a fundamentally conceptual and visual understanding of any formulas and topics in the course and in applications of the course.  
- 
-## Activities and Leadership 
-
+  
 <div id="activities">  
+
+## Activities and Leadership  
 
 ### WECE Technical Committee Workshop Chair *(Fall 2018)*  
   
