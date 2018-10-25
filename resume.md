@@ -69,28 +69,33 @@ All public projects can be viewed at [my GitLab](https://gitlab.com/roshinis).
 -	Significantly reduced energy consumption of the LED by taking advantage of Arduino’s millis().  
 - Used this same method to save 10$ on replacing our inconsistent motion detector.
  
-## Activities and Leadership 
- 
-### WECE Technical Committee Workshop Chair *(Fall 2018)*  
-
-> This section will be updated soon! 😅
-
 ## Work Experience 
 
-### ECE 110 Course Aide *(Fall 2018)*  
+### Introduction to Electronics Course Aide *(Fall 2018)*  
 
 - Currently managing an electronics lab of nearly 40 students along with three other course staff. 
 - Promoting discussions amongst students to analyze and overcome technial challenges. 
 
 ### Self Employed Highschool Math Tutor *(Fall 2016 - Summer 2018)* 
 - Tutored high school students in Algebra/Algebra 2/Precalculus with a 100% course advancement test pass rate. 
-- Provided them with a fundamentally conceptual and visual understanding of any formulas and topics in the course and in applications of the course. 
+- Provided them with a fundamentally conceptual and visual understanding of any formulas and topics in the course and in applications of the course.  
+ 
+## Activities and Leadership 
+
+<div id="activities">  
+
+### WECE Technical Committee Workshop Chair *(Fall 2018)*  
+  
+Technical Committee Workshop Chair for WECE<a href="#footnotes"><sup>3</sup></a>.
+> This section will be updated soon! 😅 
+ 
+</div> 
 
 ## Honors 
  
 ### John Deere WECE Scholarship *(Fall 2018)* 
  
-This scholarship is given to a WECE member of high academic standing in the Department of Electrical and Computer Engineering. 
+This scholarship is given to a WECE<a href="#footnotes"><sup>3</sup></a> member of high academic standing in the Department of Electrical and Computer Engineering. 
 
 ### Dean's List *(Fall 2017, Spring 2018)*
 
@@ -105,7 +110,8 @@ James Scholar is UIUC's honors program.
   ---
   <ol> 
     <li>My major GPA is the average grade point average of all the classes I have taken in my major, Electrical and Computer Engineering. <a href="#education">↩️</a></li>
-    <li>My overall GPA is my grade point average including all the classes I have taken at UIUC. <a href="#education">↩️</a></li>  
+    <li>My overall GPA is my grade point average including all the classes I have taken at UIUC. <a href="#education">↩️</a></li>   
+    <li>WECE is Women in Electrical and Computer Engineering. <a href="#activities">↩️</a></li>
   </ol> 
 
 </div>
