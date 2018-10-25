@@ -68,8 +68,14 @@ All public projects can be viewed at [my GitLab](https://gitlab.com/roshinis).
 - Successfully designed, implemented, & tested the full Arduino code. 
 -	Significantly reduced energy consumption of the LED by taking advantage of Arduino’s millis().  
 - Used this same method to save 10$ on replacing our inconsistent motion detector.
+ 
+## Activities and Leadership 
+ 
+### WECE Technical Committee Workshop Chair *(Fall 2018)*  
 
-## Work Experience
+> This section will be updated soon! 😅
+
+## Work Experience 
 
 ### ECE 110 Course Aide *(Fall 2018)*  
 
